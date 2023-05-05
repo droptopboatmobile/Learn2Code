@@ -1,0 +1,4 @@
+1. Prompt the user for a number n
+2. If the number n is < 1 or > 8, return to step 1
+3. Iterate step 4. n number of times
+    4. Print " " n minus i times, print "#" i times, then new line
