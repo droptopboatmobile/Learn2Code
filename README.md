@@ -1,2 +1,3 @@
 # Learn2Code
-My coding exercises 
+
+My learning projects
